@@ -316,7 +316,7 @@ export const continentData = {
   antarctica: [
     {
       id: "1",
-      title: "mcmurdo station",
+      title: "mcmurdostation",
       image: require('../images/countries/mcmurdo.png'),
       description:
         "McMurdo Station is a U.S. Antarctic research station on the southern tip of Ross Island.",
